@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SistemaReserva.Datos
+namespace GestionPedidos.Modelo
 {
     internal class dto_Conexion
     {
@@ -13,7 +13,7 @@ namespace SistemaReserva.Datos
 
         public dto_Conexion()
         {
-            connectionString = "Server=.;Database=SistemaReserva;User Id=sa;Password=123456;";
+            connectionString = "Server=.;Database=SistemaPedidos;User Id=sa;Password=123456;";
         }
 
         public SqlConnection Conectarse()

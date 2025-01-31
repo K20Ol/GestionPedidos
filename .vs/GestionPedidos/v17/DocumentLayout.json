@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\parcial2\\gestionpedidos\\gestionpedidos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\parcial2\\gestionpedidos\\gestionpedidos\\vista\\reportes\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\reportes\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\parcial2\\gestionpedidos\\gestionpedidos\\modelo\\datos\\datasetreporte.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\modelo\\datos\\datasetreporte.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\parcial2\\gestionpedidos\\gestionpedidos\\vista\\reportes\\informereporte.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\reportes\\informereporte.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\haro\\parcial2\\gestionpedidos\\gestionpedidos\\vista\\reportes\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\reportes\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\gestionpedidos\\vista\\mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BEDB50-BE50-4B5D-B0F8-7109255D3574}|GestionPedidos\\GestionPedidos.csproj|solutionrelative:gestionpedidos\\vista\\mesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +65,158 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSetReporte.xsd",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Modelo\\Datos\\DataSetReporte.xsd",
+              "RelativeDocumentMoniker": "GestionPedidos\\Modelo\\Datos\\DataSetReporte.xsd",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Modelo\\Datos\\DataSetReporte.xsd",
+              "RelativeToolTip": "GestionPedidos\\Modelo\\Datos\\DataSetReporte.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-31T08:21:52.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Form1.cs",
-              "RelativeDocumentMoniker": "GestionPedidos\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GestionPedidos\\Form1.cs [Dise\u00F1o]",
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Reportes\\Reporte.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Reportes\\Reporte.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Reportes\\Reporte.cs",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Reportes\\Reporte.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T01:53:13.987Z",
+              "WhenOpened": "2025-01-31T08:34:16.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InformeReporte.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Reportes\\InformeReporte.rdlc",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Reportes\\InformeReporte.rdlc",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Reportes\\InformeReporte.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Reportes\\InformeReporte.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-01-31T08:20:48.491Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionPedidos\\Vista\\MenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:51:29.605Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Pedido.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Pedido.cs",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Pedido.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwJcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:59:29.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\MenuPrincipal.cs",
+              "RelativeToolTip": "GestionPedidos\\Vista\\MenuPrincipal.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:09:30.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Reportes\\Reporte.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Reportes\\Reporte.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Reportes\\Reporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Reportes\\Reporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:19:06.208Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Clientes.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:51:28.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Plato.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Plato.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Plato.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Plato.cs",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Plato.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:49:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Plato.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Plato.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Plato.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Plato.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Plato.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:47:52.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Pedido.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Pedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Pedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:47:50.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mesas.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Mesas.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Mesas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Mesas.cs",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Mesas.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:46:30.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mesas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Mesas.cs",
+              "RelativeDocumentMoniker": "GestionPedidos\\Vista\\Mesas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Parcial2\\GestionPedidos\\GestionPedidos\\Vista\\Mesas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionPedidos\\Vista\\Mesas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:46:00.271Z"
             }
           ]
         }
